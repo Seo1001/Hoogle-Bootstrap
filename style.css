@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    margin: 230px 0 0 0;
+    font-size: 90px;
+}
+
+h1 span:nth-child(1){
+    color:blue;
+}
+
+h1 span:nth-child(2){
+    color:red;
+}
+
+h1 span:nth-child(3){
+    color:gold;
+}
+
+h1 span:nth-child(4){
+    color:blue;
+}
+
+h1 span:nth-child(5){
+    color:green;
+}
+
+h1 span:nth-child(6){
+    color:red;
+}
+
+input{
+    max-width: 584px;
+}
